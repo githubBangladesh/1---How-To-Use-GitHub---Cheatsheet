@@ -1,4 +1,4 @@
-# How To Use GitHub Cheatsheet
+# How To Use GitHub - Cheatsheet
 
 1. Writing and Formatting syntax
   
