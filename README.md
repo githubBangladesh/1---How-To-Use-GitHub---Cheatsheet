@@ -4,4 +4,4 @@
   
   1.1 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
   
-  1.2 [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
+  1.2 [Writing on GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
